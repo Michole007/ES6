@@ -1,0 +1,48 @@
+const books = [
+    {
+        id: 1,
+        title: "The Catcher in the Rye",
+        author: "J.D. Salinger",
+        genre: "Fiction",
+        pages: 277,
+        publishedYear: 1951,
+        rating: 4.1,
+    },
+    {
+        id: 2,
+        title: "To Kill a Mockingbird",
+        author: "Harper Lee",
+        genre: "Fiction",
+        pages: 324,
+        publishedYear: 1960,
+        rating: 4.5,
+    },
+    {
+        id: 3,
+        title: "1984",
+        author: "George Orwell",
+        genre: "Dystopian",
+        pages: 328,
+        publishedYear: 1949,
+        rating: 4.8,
+    },
+    {
+        id: 4,
+        title: "The Great Gatsby",
+        author: "F. Scott Fitzgerald",
+        genre: "Fiction",
+        pages: 180,
+        publishedYear: 1925,
+        rating: 4.2,
+    },
+    {
+        id: 5,
+        title: "Pride and Prejudice",
+        author: "Jane Austen",
+        genre: "Romance",
+        pages: 279,
+        publishedYear: 1813,
+        rating: 4.6,
+    },
+];
+
